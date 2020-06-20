@@ -1,2 +1,7 @@
 # efi-firmwares
-EFI firmware files for different kinds of computer model
+EFI firmware files for different kinds of computer models
+
+MacBook Pro
+-----------
+
+* 133
